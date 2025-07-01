@@ -82,13 +82,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: wilsondigestivediseasescenter
-    url: https://wilsondigestivediseasescenter.com
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
   - name: triangl Ehearing
     url: https://trianglehearing.com
     maxResponseTime: 15000
